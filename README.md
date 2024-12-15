@@ -2,5 +2,5 @@
 gROUP aSSIGNMENT
 BY
 Taote Seboka
-Lengau Ntje, 
+Lengau Ntje &
 Mamoabi Lekhapelo 
